@@ -1,4 +1,4 @@
-TOKEN = '589327645:AAFWn0gpSYnS0zkqNRBeGIiPAl-IAArr7Ww'
+TOKEN = ''
 
 help0 = 'Here is what I can do:\n\n'
 help1 = '/add – add Onay card to your list\n'
